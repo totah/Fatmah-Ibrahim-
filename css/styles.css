@@ -1,0 +1,157 @@
+/* DIVS */
+
+div.contain-to-grid, .top-bar-section ul, .top-bar-section li:not(.has-form) a:not(.button) {
+font-family: 'Lemon', cursive;
+text-align: center;
+height: 45px;
+background:#999933;
+}
+
+div.menu {
+	background: none;
+	width: 100%;
+	margin-top: 20px;
+}
+div.aboutus {
+
+	margin-top: 20px;
+}
+div.aboutus, div.orbit-container, div.row {
+	background: none;
+	
+}
+div.contact {
+	margin-top: 20px;
+	color: #330000;
+	background: #999933;
+	height: 325px;
+		
+}
+
+div#gmap {
+	margin-top: 20px;
+background:#999933;
+	height: 325px;
+	padding: 10px;
+}
+div.content {
+	background: none;
+padding-top: 20px;
+color: white;
+}
+
+section.top-bar-section.right {
+
+	text-align: center;
+}
+
+nav.top-bar {
+	height: 45px;
+
+	z-index: 3;
+	background: #999933;
+}
+
+
+div.heading, div.heading h2 {
+	text-align: center;
+	color: white;
+	background: black;
+}
+
+/* Menu */
+
+table {
+	background: none;
+	width: 100%;
+	border:none;
+}
+
+tr {
+	margin-bottom: 10px;
+
+}
+
+td, table tbody tr td, table tr td{
+	font-size: 1em;
+	font-weight: inherit;
+	color: #ffcc66;
+	font-weight: bold;
+}
+
+td.item {
+	font-family: 'Lemon', cursive;
+	font-size: 1em;
+	color:#d9261c;
+}
+
+td.item.raw {
+
+	font-family: 'Lemon', cursive;
+	font-size: 1em;
+	color: #d9261c;
+}
+
+td.item.spicy {
+
+	font-family: 'Lemon', cursive;
+	font-size: 1em;
+	color: #d9261c;
+}
+
+td.price {
+
+	text-align: right;
+	font-weight: bold;
+}
+
+table tr.even, table tr.alt, table tr:nth-of-type(even){
+
+background: none;
+}
+
+/* IMG*/
+
+img.about {
+
+	width:333px;
+	height: 245px;
+	padding-bottom: 20px;
+}
+
+img.orbitpic {
+
+	width: 100%;
+}
+
+
+/* Typography*/
+
+p {
+	color:#ffcc66;
+	background: none;
+	margin-bottom: 0em;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: 'Lemon', cursive;
+	color:#d9261c;
+	font-size: 2em;
+	text-align: left;
+	background: #999933;}
+
+/* Mobile */
+@media screen and (min-width: 320px) {
+}
+
+/* Tablet */
+@media screen and (min-width: 768px) {
+ 
+}
+
+/* Desktop */
+@media screen and (min-width: 1140px) {
+
+
+}
